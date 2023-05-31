@@ -1,0 +1,29 @@
+.banner{
+    background: url('../img/montanha.jpg');
+    background-position: top right;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+.perfil{
+    border-radius: 50%;
+    border: #fff solid 0.5rem;
+}
+
+@media (max-width: 576px) {
+    .banner{
+        background-position: right;
+        height: 100vh;
+    }
+
+}
+@media (min-width: 768px) {  }
+
+
+@media (min-width: 992px) {  }
+
+
+@media (min-width: 1200px) {  }
+
+
+@media (min-width: 1400px) {  }
