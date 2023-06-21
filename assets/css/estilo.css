@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
 .banner{
     background: url('../img/montanha.jpg');
     background-position: top right;
@@ -8,6 +9,16 @@
 .perfil{
     border-radius: 50%;
     border: #fff solid 0.5rem;
+}
+
+.hab{
+    text-align:center;
+}
+
+.nome{
+    color: black;
+    font-family:'Oswald', sans-serif;
+    text-size-adjust: 180%;
 }
 
 @media (max-width: 576px) {
